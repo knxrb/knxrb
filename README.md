@@ -8,5 +8,3 @@ I work primarily with
   - Python
   - C#
   - PHP
-
-Email: knxrb@yahoo.co.uk
