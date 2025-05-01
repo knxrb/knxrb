@@ -24,6 +24,6 @@ I'm open to learning any technologies, with over 10 years commercial experience 
 
 ---
 
-Experimenting with game development tech is something Like to do with some of my time outside of work; most recently, large modular terrain streaming mechanics and performance.
+Experimenting with game development tech is something I enjoy doing with some of my time outside of work; most recently, large modular terrain streaming mechanics and performance.
 
 I also like to travel and have visited Brazil many times, with occasional travel to Europe such as Germany and France.
