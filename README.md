@@ -6,21 +6,21 @@ I'm open to learning any technologies, with over 10 years commercial experience 
 
 **Backend**
 
-[![Backend Skills](https://skillicons.dev/icons?i=py,aws,cs,fastapi,php)](https://skillicons.dev)
+[![Python, AWS, C#, FastAPI, PHP](https://skillicons.dev/icons?i=py,aws,cs,fastapi,php)](https://skillicons.dev)
 
 *+ AWS serverless technologies such as: Lambda, SQS, and Eventbridge.*
 
 **Database**
 
-[![Database Skills](https://skillicons.dev/icons?i=postgres,mysql,dynamodb)](https://skillicons.dev)
+[![Postgres, MySQL, DynamoDB](https://skillicons.dev/icons?i=postgres,mysql,dynamodb)](https://skillicons.dev)
 
 **Frontend**
 
-[![Frontend Skills](https://skillicons.dev/icons?i=nodejs,html,css,react,ts,js)](https://skillicons.dev)
+[![NodeJS, HTML, CSS, React, TypeScript, JavaScript](https://skillicons.dev/icons?i=nodejs,html,css,react,ts,js)](https://skillicons.dev)
 
 **Other**
 
-[![Misc. Skills](https://skillicons.dev/icons?i=docker,cloudflare,git,github,idea,githubactions,jenkins,postman,unity)](https://skillicons.dev)
+[![Docker, CloudFlare, Git, GitHub, IDEA, GitHub Actions, Jenkins, Postman, Unity](https://skillicons.dev/icons?i=docker,cloudflare,git,github,idea,githubactions,jenkins,postman,unity)](https://skillicons.dev)
 
 ---
 
