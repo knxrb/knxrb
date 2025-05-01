@@ -8,7 +8,7 @@ I'm open to learning any technologies, with over 10 years commercial experience 
 
 [![Backend Skills](https://skillicons.dev/icons?i=py,aws,cs,fastapi,php)](https://skillicons.dev)
 
-*Including AWS serverless technologies such as: Lambda, SQS, and Eventbridge.*
+*+ AWS serverless technologies such as: Lambda, SQS, and Eventbridge.*
 
 **Database**
 
